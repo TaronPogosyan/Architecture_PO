@@ -4,9 +4,9 @@
 Осталась только ваша часть до релиза. Вам предстоит:
 1) Разработать по UML диаграмме классы домена приложения: User, Carrier, BankAccount и Ticket
 2) Разработать по UML диаграмме классы: TicketProvider и CashProvider
-3) 
+
 Полностью разработанный проект должен собраться и выполниться. Общая UML диаграмма, проект и UML неразработанных 
 классов приложена в материалах курса.
 ![CoreDiag.png](CoreDiag.png)
-![UMLDomen.jpg](UMLDomen%20%282%29%20%281%29.jpg)
-![UMLProvider.jpg](UMLProvider%20%283%29%20%281%29.jpg)
+![UMLDomen.jpg](UMLDomen.jpg)
+![UMLProvider.jpg](UMLProvider.jpg)
