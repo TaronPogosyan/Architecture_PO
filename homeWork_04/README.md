@@ -7,6 +7,6 @@
 3) 
 Полностью разработанный проект должен собраться и выполниться. Общая UML диаграмма, проект и UML неразработанных 
 классов приложена в материалах курса.
-![CoreDiag.png](CoreDiag%20%281%29%20%281%29.png)
+![CoreDiag.png](CoreDiag.png)
 ![UMLDomen.jpg](UMLDomen%20%282%29%20%281%29.jpg)
 ![UMLProvider.jpg](UMLProvider%20%283%29%20%281%29.jpg)
